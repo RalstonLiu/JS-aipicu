@@ -1,2 +1,2 @@
 # JS-aipicu
-# JS-aipicu
+love.aipicu.com
